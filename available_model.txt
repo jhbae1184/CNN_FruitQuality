@@ -1,0 +1,19 @@
+AlexNet
+ConvNeXt
+DenseNet
+EfficientNet
+EfficientNetV2
+GoogLeNet
+Inception V3
+MNASNet
+MobileNet V2
+MobileNet V3
+RegNet
+ResNet
+ResNeXt
+ShuffleNet V2
+SqueezeNet
+SwinTransformer
+VGG
+VisionTransformer
+Wide ResNet
